@@ -64,7 +64,7 @@ __->You will get all reachable networks__
 
 ## Support
 
-For support, email zincofficial.111@gmail.com 
+For support, email quadaltigo.5@gmail.com 
 
 And wait for 24h hours if there's no response
 
